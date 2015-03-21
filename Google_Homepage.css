@@ -1,0 +1,130 @@
+#bar {
+  width:600px;
+  height:20px;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:360px;
+  margin-right:0px;
+  padding:0px;
+}
+
+img {
+  height:200px;
+  width:400px;
+  margin-top:150px;
+  margin-bottom:0px;
+  margin-left:450px;
+  margin-right:0px;
+  padding:0px;
+}
+
+#search {
+  margin-left:530px;
+  height:30px;
+  width:120px;
+  margin-top:20px;
+  margin-bottom:0px;
+  margin-right:0px;
+}
+
+#lucky {
+  margin-left:10px;
+  height:30px;
+  width:120px;
+  margin-top:20px;
+  margin-bottom:0px;
+  margin-right:0px;
+}
+
+footer {
+  background-color:#f4f4f4;
+  padding-bottom:0px;
+  padding-top:10px;
+  padding-left:80px;
+  margin-top:200px;
+}
+
+footer {
+  padding-bottom:40px;
+  padding-top:20px;
+}
+
+a {
+  font-family:"Arial";
+  color:#696969
+}
+
+#adv {
+  position:absolute;
+  margin-top:0px;
+  margin-left:-40px;
+  margin-bottom:0px;
+}
+
+#bus {
+  position:absolute;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:50px;
+}
+
+#abo {
+  position:absolute;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:125px;
+}
+
+#pt {
+  position:absolute;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:980px;
+}
+
+#set {
+  position:absolute;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:1110px;
+}
+
+header {
+  margin-top:-725px;
+}
+
+#you {  
+  position:absolute;
+  margin-left:1030px;
+  margin-top:50px;
+}
+
+#gma {
+  position:absolute;
+  margin-left:1080px;
+  margin-top:50px;;
+}
+
+#ima {
+  position:absolute;
+  margin-left:1130px;
+  margin-top:50px;
+}
+
+#app {
+  position:absolute;
+  margin-left:1190px;
+  margin-top:50px;
+}
+
+#Si {
+  position:absolute;
+  height:30px;
+  width:60px;
+  color:white;
+  background-color:#0099FF;
+  margin-left:1240px;
+  margin-top:45px;
+  margin-bottom:0px;
+  border-color:#0099FF;
+}
